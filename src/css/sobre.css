@@ -1,2 +1,18 @@
 /* sobre.css */
+.sobre {
+    min-height: 400px;
+}
+.sobre p {
+    text-align: justify;
+    padding: 15px 0;
+    margin: 15px 0;
+    width: 700px;
+}
 
+.sobre em strong {
+    color: #ff0000;
+}
+
+.sobre .missao {
+    font-size: 20px;
+}
