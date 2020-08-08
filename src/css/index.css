@@ -1,19 +1,8 @@
-/* styles.css */
+/* index.css */
 
 .barbearia {
     padding: 50px 0;
 }
-
-
-
-.beneficios ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
-
-
 
 #principal {
     background-color: #ccc;
@@ -23,21 +12,3 @@
 .banner {
     width: 100%;
 }
-
-.beneficios {
-    background-color: #fff;
-    padding: 20px;
-}
-
-.titulo-centralizado{
-    text-align: center;
-}
-
-.itens {
-    font-style: italic;
-}
-
-.imagemBeneficios {
-    width: 50%;
-}
-
