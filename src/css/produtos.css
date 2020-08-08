@@ -18,6 +18,7 @@ nav li {
 
 nav li a {
     text-transform: uppercase;
+    color: #000;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
