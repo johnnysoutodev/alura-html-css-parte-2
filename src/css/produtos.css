@@ -29,6 +29,12 @@ nav li a:hover {
     text-decoration: underline;
 }
 
+footer {
+    text-align: center;
+    background: url(../images/bg.jpg);
+    padding: 40px 0;
+}
+
 .linha {
     position: relative;
     width: 940px;
@@ -68,4 +74,8 @@ nav li a:hover {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+.copyright {
+    color: #fff;
 }
