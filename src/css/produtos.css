@@ -24,6 +24,11 @@ nav li a {
     text-decoration: none;
 }
 
+nav li a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
 .linha {
     position: relative;
     width: 940px;
