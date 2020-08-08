@@ -1,1 +1,17 @@
 /* produtos.css */
+
+header {
+    background-color: #bbb;
+}
+
+nav li {
+    display: inline;
+    margin-left: 15px;
+}
+
+nav li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
