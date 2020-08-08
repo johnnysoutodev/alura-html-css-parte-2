@@ -42,7 +42,7 @@ nav li a {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: #000 solid 1px;
+    border: 2px solid #000;
     border-radius: 10px;
 }
 
