@@ -1,1 +1,21 @@
 /* beneficios.css */
+
+.beneficios {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.beneficios ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagemBeneficios {
+    width: 50%;
+}
