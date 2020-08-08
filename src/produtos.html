@@ -48,8 +48,14 @@
     </main>
 
     <footer>
-        <img src="images/logo-branco.png" alt="Logo Barbearia Alura">
-        <p>Copyright Barbearia Alura - 2019.</p>
+        <div class="linha">
+            <img src="images/logo-branco.png" alt="Logo Barbearia Alura">
+            <p>Copyright Barbearia Alura - <span id="ano"></span>.</p>
+        </div>
     </footer>
+    <script src="js/scripts.js"></script>
+    <script>
+        document.getElementById('ano').innerHTML = year;
+    </script>
 </body>
 </html>
