@@ -4,9 +4,7 @@
     padding: 50px 0;
 }
 
-p {
-    text-align: center;
-}
+
 
 .beneficios ul {
     display: inline-block;
@@ -15,9 +13,7 @@ p {
     margin-right: 15%;
 }
 
-em strong {
-    color: #ff0000;
-}
+
 
 #principal {
     background-color: #ccc;
@@ -45,6 +41,3 @@ em strong {
     width: 50%;
 }
 
-.missao {
-    font-size: 20px;
-}
