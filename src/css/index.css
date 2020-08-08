@@ -1,10 +1,14 @@
 /* styles.css */
 
+.barbearia {
+    padding: 50px 0;
+}
+
 p {
     text-align: center;
 }
 
-ul {
+.beneficios ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
@@ -20,11 +24,11 @@ em strong {
     padding: 30px;
 }
 
-#banner {
+.banner {
     width: 100%;
 }
 
-#beneficios {
+.beneficios {
     background-color: #fff;
     padding: 20px;
 }
@@ -34,7 +38,7 @@ em strong {
 }
 
 .titulo-principal {
-    padding-left: 20px;
+    margin: 20px 0;
 }
 
 .itens {
