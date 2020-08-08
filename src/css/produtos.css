@@ -46,6 +46,10 @@ nav li a {
     font-weight: bold;
 }
 
+.produto-desc {
+    font-size: 18px;
+}
+
 .produto-preco {
     font-size: 22px;
     font-weight: bold;
