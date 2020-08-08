@@ -2,6 +2,7 @@
 
 header {
     background-color: #bbb;
+    padding: 20px 0;
 }
 
 nav {
@@ -23,5 +24,7 @@ nav li a {
 }
 
 .linha {
-
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
