@@ -38,7 +38,7 @@
     width: 50%;
 }
 
-/* produtos.css */
+/* produtos */
 
 .produtos {
     padding-bottom: 50px;
@@ -75,7 +75,7 @@
     margin-top: 10px;
 }
 
-/* sobre.css */
+/* sobre */
 
 .sobre {
     min-height: 400px;
@@ -94,3 +94,6 @@
 .sobre .missao {
     font-size: 20px;
 }
+
+/* contato */
+
